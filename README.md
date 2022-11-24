@@ -8,9 +8,9 @@ Hello! My name is Kwan Tien Ooi (Justyn Ooi) and I am a Software Engineer.
 <br>development. I am skilled in object-oriented programming, data structures,
 <br>algorithm design, UX/UI, and human computer interaction concepts. I studied
 <br>at UC Davis where I majored in Computer Science. My favorite project would
-<br>have to be our submission into the HackCWRU 2022 hackathon where our project
-<br>won first place for FinTech Track. I am always open to collaborating on new
-<br>projects so please reach out to me!
+<br>have to be our submission into the HackCWRU 2022 hackathon where our
+<br>project won first place for FinTech Track. I am always open to collaborating
+<br>on new projects so please reach out to me!
 
 ## Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
