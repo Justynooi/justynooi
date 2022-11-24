@@ -3,14 +3,14 @@
 <img align="right" alt="Coding" width="300" height="150" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 Hello! My name is Kwan Tien Ooi (Justyn Ooi) and I am a Software Engineer.
-<br>I am a versatile programmer, quick to adapt to any given situation.
-<br>I am proficient in full-stack development, but my strength lies in 
-<br>back-end development. I am skilled in object-oriented programming,
-<br>data structures, algorithm design, UX/UI, and human computer interaction
-<br>concepts. I studied at UC Davis where I majored in Computer Science.
-<br>My favorite project would have to be our submission into the HackCWRU
-<br>2022 hackathon where our project won first place for FinTech Track.
-<br>I am always open to collaborating on new projects so please reach out to me!
+<br>I am a versatile programmer, quick to adapt to any given situation. I am
+<br>proficient in full-stack development, but my strength lies in back-end
+<br>development. I am skilled in object-oriented programming, data structures,
+<br>algorithm design, UX/UI, and human computer interaction concepts. I studied
+<br>at UC Davis where I majored in Computer Science. My favorite project would
+<br>have to be our submission into the HackCWRU 2022 hackathon where our project
+<br>won first place for FinTech Track. I am always open to collaborating on new
+<br>projects so please reach out to me!
 
 ## Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
