@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="300" height="150" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-Hello! My name is Justyn Mata and I love building things. 
+Hello! My name is Kwan Tien Ooi (I go by Justyn) and I love building things. 
 <br>While enrolled at UC Davis, majoring in Computer Science, 
 <br>I became proficient in full-stack development. I was also 
 <br>involved in ML and Game Dev projects as well as a FinTech 
