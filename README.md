@@ -17,7 +17,7 @@ Hello! My name is Kwan Tien Ooi (Justyn Ooi) and I am a Software Engineer.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=java&logoColor=ffd054)
 ![PHP](https://img.shields.io/badge/php-239120?style=for-the-badge&logo=php&logoColor=white) 
 ![Go](https://img.shields.io/badge/go-5e5086?style=for-the-badge&logo=go&logoColor=white)
 
